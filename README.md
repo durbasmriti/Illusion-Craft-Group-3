@@ -6,8 +6,8 @@
 
 ## Datasets used :
 
-https://www.kaggle.com/datasets/lantian773030/pokemonclassification
+7,000 Labeled Pokemon : https://www.kaggle.com/datasets/lantian773030/pokemonclassification
 
-https://www.kaggle.com/datasets/caitlynjade/pokemon-physical-descriptions
+Pokemon Physical Descriptions : https://www.kaggle.com/datasets/caitlynjade/pokemon-physical-descriptions
 
 
